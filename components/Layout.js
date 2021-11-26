@@ -16,7 +16,7 @@ export default function Layout({ children }) {
       </header>
 
       <div className="page-content">
-        { children }
+        {children}
       </div>
 
       <footer>
@@ -25,3 +25,5 @@ export default function Layout({ children }) {
     </div>
   )
 }
+
+
